@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Riveros Edgardo Nahuel</h1>
-<h3 align="center">Estudiante de programacion III</h3>
+<h3 align="center">Estudiante de Lic en sistemas de Informacion</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahuelriveros&label=Profile%20views&color=0e75b6&style=flat" alt="nahuelriveros" /> </p>
+
+- Actualmente cursando el 4to año de la carrera Lic en Sistemas de Informacion
 
 - 🔭 I’m currently working on **pagina web de ventas de indumenaria**
 
